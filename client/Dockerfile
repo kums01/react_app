@@ -12,4 +12,8 @@ COPY . .
 EXPOSE 3000
 
 CMD [ "npm", "start"]
+<<<<<<< HEAD
 #ignore
+=======
+#kdnvjbrgfj 
+>>>>>>> master
